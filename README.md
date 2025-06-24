@@ -1,7 +1,11 @@
 <h1 align="center">Hello 👋, I'm Sami</h1>
 <h3 align="center">An aspiring full-stack developer</h3>
 
+- 🔭 I’m currently working on [Hydro Gaurd](https://github.com/Albin-Tenghagen/The-Fellowship-of-the-Code-Flood-checker)
+
 - 🌱 I’m currently studying **Full-stack development!**
+
+- 👨‍💻 All of my projects are available at [Work in progress...](Work in progress...)
 
 - 📫 How to reach me **alhalabisami@gmail.com**
 
