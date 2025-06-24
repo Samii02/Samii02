@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently studying **Full-stack development!**
 
-- 👨‍💻 All of my projects are available at [Work in progress...](Work in progress...)
+- 👨‍💻 All of my projects are available at (Work in progress...)
 
 - 📫 How to reach me **alhalabisami@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sami al-halabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sami al-halabi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sami-al-halabi-1aab76329" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sami al-halabi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">My resume: </h3>
